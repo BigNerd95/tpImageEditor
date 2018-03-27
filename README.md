@@ -1,6 +1,11 @@
 # tpImageEditor
 TP-LINK Image Editor tool
 
+# Work in Porgress  
+Missing fields:  
+- Unknown MD5  
+- Unknown 128 bytes  
+
 ## Firmware structure
 | Size (byte)  | Name | Description |
 | :----------: | ---- | ------- |
